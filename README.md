@@ -10,4 +10,4 @@
         > (After successfuly completion of 1st command) Update-Database
 
 5. When completed, Run Website in Visual Studio.
-6. Login with UserName:  'lindajenkins@acme.com' Password: 'JseTest@123'
+6. Login with any given employee:e.g.  'ellajefferson@acme.com' Password: 'JseTest@123'
